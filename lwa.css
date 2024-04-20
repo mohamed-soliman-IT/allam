@@ -374,6 +374,10 @@ a {
 
 @media screen and (max-width:600px){
 
+        .l-navbar{
+        direction: rtl;
+    }
+
     /* .nav_logo{
         display: none;
     }
